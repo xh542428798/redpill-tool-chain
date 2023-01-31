@@ -5,7 +5,7 @@
         "sn": "1130ODN022226",
         "mac1": "001132DFBCF7",
         "SataPortMap": "22",
-        "DiskIdxMap": "0002",
+        "DiskIdxMap": "0002"
     },
     "synoinfo": {
        "maxdisks":"4",
