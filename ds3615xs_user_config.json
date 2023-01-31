@@ -1,0 +1,14 @@
+{
+    "extra_cmdline": {
+        "pid": "0x5567",
+        "vid": "0x0781",
+        "sn": "1130ODN022226",
+        "mac1": "001132DFBCF7"
+    },
+    "synoinfo": {
+       "maxdisks":"4",
+      "usbportcfg":"0x8400"
+    },
+    "ramdisk_copy": {},
+    "extensions": []
+}
