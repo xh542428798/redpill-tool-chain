@@ -3,10 +3,13 @@
         "pid": "0x5567",
         "vid": "0x0781",
         "sn": "1130ODN022226",
-        "mac1": "001132DFBCF7"
+        "mac1": "001132DFBCF7",
+         "SataPortMap": "22",
+        "DiskIdxMap": "0002"
     },
     "synoinfo": {
-       
+      "maxdisks":"4",
+      "usbportcfg":"0x8400"
     },
     "ramdisk_copy": {},
     "extensions": []
