@@ -1,0 +1,14 @@
+{
+    "extra_cmdline": {
+        "pid": "0x8816",
+        "vid": "0xAAAA",
+        "sn": "1130ODN022226",
+        "mac1": "001132DFBCF7",
+        "SataPortMap": "22",
+        "DiskIdxMap": "0002"
+    },
+    "synoinfo": {
+    },
+    "ramdisk_copy": {},
+    "extensions": []
+}
