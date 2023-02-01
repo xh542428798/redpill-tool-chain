@@ -9,8 +9,6 @@
       "SasIdxMap":"0"
     },
     "synoinfo": {
-       "maxdisks":"4",
-      "usbportcfg":"0x8400"
     },
     "ramdisk_copy": {},
     "extensions": []
